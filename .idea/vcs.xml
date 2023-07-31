@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AI-Theremin" vcs="" />
+    <mapping directory="$PROJECT_DIR$/HandTracking-and-ASL-Recognition" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Handy-App" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Space-Invader-With-Hand-Tracking" vcs="" />
+    <mapping directory="$PROJECT_DIR$/mediapipe" vcs="" />
+    <mapping directory="$PROJECT_DIR$/opencv-python" vcs="" />
+    <mapping directory="$PROJECT_DIR$/space-invader/Space-Invader-With-Hand-Tracking" vcs="" />
+  </component>
+</project>
